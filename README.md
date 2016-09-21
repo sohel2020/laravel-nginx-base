@@ -6,7 +6,6 @@ Dockerfile for Laravel server.
 * php-fpm 5.6
 * nginx
 * Laravel 5
-* git
 * composer
 * cron configured for schedule
 * 3 workers processing default queue
